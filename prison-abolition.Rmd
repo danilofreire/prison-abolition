@@ -1,0 +1,119 @@
+---
+title: "Prison Abolition: <br> An Outsider's View<br><br><br><br>"
+subtitle: ""
+author: "Danilo Freire, Brown University"
+date: "28/11/2020"
+output:
+  xaringan::moon_reader:
+    css: xaringan-themer.css
+    nature:
+      beforeInit: "macros.js"
+      highlightStyle: github
+      ratio: 16:10
+      titleSlideClass: [middle, left]
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r xaringan-themer, include=FALSE, warning=FALSE}
+options(htmltools.dir.version = FALSE)
+packages <- c("xaringan", "xaringanthemer")
+new_packages <- packages[!(packages %in% installed.packages()[, "Package"])]
+if (length(new_packages)) install.packages(new_packages)
+library(xaringanthemer)
+style_mono_accent(
+  base_color = "#1c5253",
+  header_h1_font_size = "2.25rem",
+  header_h2_font_size = "1.85rem",
+  header_font_google  = google_font("Josefin Sans"),
+  text_font_google    = google_font("Montserrat", "300", "300i"),
+  text_font_size      = "1.5rem",
+  code_font_google    = google_font("Fira Mono")
+)
+```
+
+# Hi, everyone!
+
+* I'm Danilo Freire
+
+* PhD in Political Economy at King's College London
+
+* Postdoctoral Research Fellow at Brown University
+
+* Soon to be a Senior Research Fellow at the Getulio Vargas Foundation (Brazil)
+
+* My research focus on collective and political violence in Latin America
+  - Prison gangs, evaluation of crime deterring policies, lynchings and
+    vigilantism
+
+---
+
+# Why I'm an outsider in the prison abolition movement
+
+* I'm not from the USA, Sweden, or the UK, where the prison abolition movement
+  is more prevalent
+
+* I'm an empiricist and a quantitative methodologist
+
+* I'm a bit sceptical of some claims prison abolitionists have made (more on
+  that later)
+
+* I'm a strong supporter of prison reform, but new to the prison abolition
+  literature
+
+---
+
+# However...
+
+* I love to meet people who have bold and original ideas
+
+* I think we do need more "moonshot projects"
+
+* I truly believe that honest, open debates with those who disagree with you
+  are underrated and have become even more necessary in these times of
+  political polarisation
+
+* I'm open to change my mind when presented with compelling evidence or
+  normative arguments
+
+* I'm really thankful for the invitation and I hope to learn from you all
+  today!
+
+---
+
+# Outline
+
+* The case for prison abolition: Brief overview
+
+* Four sceptical takes
+
+* How to move forward?
+
+* Conclusion and Q&A
+
+---
+
+class: center, middle, inverse
+
+# The case for prison abolition
+
+---
+
+# Brief overview
+
+* 
+
+---
+
+class: center, middle, inverse
+
+# Thank you very much! :)
+
+---
+
+# Let's keep in touch!
+
+* Danilo Freire:
+
+  - [danilofreire@gmail.com](mailto:danilofreire@gmail.com)
+  - <http://danilofreire.github.io>
