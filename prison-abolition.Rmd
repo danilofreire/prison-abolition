@@ -2,7 +2,7 @@
 title: "Prison Abolition: <br> An Outsider's View<br><br><br><br>"
 subtitle: ''
 author: 'Danilo Freire, Brown University'
-date: '<font size="6">28th of November, 2020</font><br><br><br> `r icon::fa("link")` <a href="http://danilofreire.github.io" target="_blank"><font size="5" color="white">danilofreire.github.io</font></a><br> `r icon::fa("envelope")` <a href="mailto:danilofreire@brown.edu" target="_blank"><font size="5" color="white">danilofreire\@brown.edu</font></a></br> `r icon::fa("github")` <a href="http://github.com/danilofreire/prison-abolition" target="_blank"><font size="5" color="white">danilofreire/prison-abolition</font></a>'
+date: '<font size="6">28th of November, 2020</font><br><br><br> `r icon::fa("link")` <a href="http://danilofreire.github.io" target="_blank"><font size="5" color="white">danilofreire.github.io</font></a><br> `r icon::fa("envelope")` <a href="mailto:danilofreire@brown.edu" target="_blank"><font size="5" color="white">danilofreire\@brown.edu</font></a></br> `r icon::fa("github")` <a href="http://github.com/danilofreire/prison-abolition" target="_blank"><font size="5" color="white">github.com/danilofreire/prison-abolition</font></a>'
 output:
   xaringan::moon_reader:
     css: xaringan-themer.css
