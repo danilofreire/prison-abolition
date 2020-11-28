@@ -302,7 +302,7 @@ background-size: cover
 * The most widely-known is to decriminalise minor offenses
   - Drug use, illegal gambling, traffic violations
 
-* However, deterrence policies also seem to work in even for serious crimes
+* However, deterrence policies also seem to work even for serious crimes
 
 * Deterrence policies are those that discourage criminal activities
 
@@ -322,7 +322,7 @@ background-size: cover
   reduction effect"
 
 * The effect is particularly large for variants that try to dissuade groups to
-  engage in violence ([RAND (2020)](https://www.rand.org/pubs/tools/TL261/better-policing-toolkit/all-strategies/focused-deterrence/in-depth.html))
+  engage in violence ([RAND 2020](https://www.rand.org/pubs/tools/TL261/better-policing-toolkit/all-strategies/focused-deterrence/in-depth.html))
 
 * Deterrence policies do not argue to abolish prisons, but their effect leads
   to a reduction of incarceration rates
@@ -366,7 +366,7 @@ class: center, middle, inverse
 
 * Maybe prison abolition should be understood as an "unfinished" movement, and
   "_thus conceive of struggles as being unending, without finality_" ([Carrier
-  and Piché (2015)](https://doi.org/10.4000/champpenal.9162))
+  and Piché 2015](https://doi.org/10.4000/champpenal.9162))
 
 * While this approach is probably unsatisfying for some, it can equate
   prison abolitionists' demands with the hard questions the movement still
